@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+#span-1{
+    font-size: 3rem;
+}
+#input-btn{
+    font-size: 2rem;
+}
+#input{
+    font-size: 2rem;
+    text-align: center;
+}
+
+
